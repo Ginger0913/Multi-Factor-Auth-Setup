@@ -110,5 +110,4 @@ The mobile monitor just accepts the input and sets up the key based off of that
 
 ## Authors
 
-* **Cody Fidler** - *Initial work* - [Cody](https://github.com/Cody0913)
-* **Michael Harris** - *Optimization* - [God](https://github.com/troglodyte)
+* **Cody Fidler** - *Initial work* - [Cody](https://github.com/Ginger0913)
